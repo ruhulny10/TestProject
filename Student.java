@@ -5,8 +5,8 @@ public class Student{
 
         System.out.println("Hello World");
 	System.out.println("This is my first program");
-	gfshgdjhg
-       System.out.println("Welcome to bangladesh");
+	
+        System.out.println("Welcome to bangladesh");
 
         System.out.println("This is our land");
         System.out.println("Hello this mr ruhul amin");
@@ -16,9 +16,9 @@ public class Student{
         System.out.println(" we are student");
         System.out.println("bangladesh is my land");
         System.out.println("I write arabic");
-        System.out.println("i loe my land"0;
+        System.out.println("i loe my land");
         System.out.println("this is nyc");
-        System.out.println("I love flower"):
+        System.out.println("I love flower");
         System.out.println("He is good at programming");
         System.out.println("I know Java");
         System.out.println("he is mr dk");  
