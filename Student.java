@@ -1,9 +1,9 @@
-
+	
 public class Student{
-
-    public static void main(String[] args){
-
-        System.out.println("Hello World");
+			
+ 	   public static void main(String[] args){
+	
+       	System.out.println("Hello World");
 	System.out.println("This is my first program");
 	
         System.out.println("Welcome to bangladesh");
@@ -31,7 +31,7 @@ public class Student{
         System.out.println("we plays football");       
         System.out.println("Now the time for programming"); 
         System.out.println("we are here");
-
+        System.out.println("we learning compiling");
 
 
 
